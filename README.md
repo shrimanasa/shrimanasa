@@ -47,14 +47,6 @@
 
 ---
 
-### 📈 GitHub Stats 🌸
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrimanasa&show_icons=true&bg_color=fff0f5&title_color=ff1493&text_color=8b008b&icon_color=ff69b4&border_color=ffb6c1" alt="GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrimanasa&background=fff0f5&ring=ff69b4&fire=ff1493&currStreakNum=8b008b&sideLabels=ff1493&currStreakLabel=ff69b4&border=ffb6c1" alt="GitHub Streak" />
-  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimanasa&layout=compact&bg_color=fff0f5&title_color=ff1493&text_color=8b008b&border_color=ffb6c1" alt="Top Languages" />
 </div>
