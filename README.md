@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=200&section=header&text=Hi%20there,%20I'm%20Shri%20Manasa!%20🌸✨&fontSize=40&fontColor=ff1493" />
+  <img src="avatar.png" width="180" alt="Shri Manasa Avatar" />
+  <img src="header.svg" width="600" alt="Hi there, I'm Shri Manasa!" />
 </div>
 
 <h3 align="center">A passionate Full Stack Developer crafting seamless applications with a touch of magic 💖</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrimanasa&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
@@ -44,12 +41,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
-
----
-
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimanasa&layout=compact&bg_color=fff0f5&title_color=ff1493&text_color=8b008b&border_color=ffb6c1" alt="Top Languages" />
-</div>
 
 ---
 <div align="center">

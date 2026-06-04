@@ -1,0 +1,25 @@
+<svg width="700" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Beautiful Pink Gradient -->
+    <linearGradient id="pinkGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff1493" />
+      <stop offset="50%" stop-color="#ff69b4" />
+      <stop offset="100%" stop-color="#ffb6c1" />
+    </linearGradient>
+    
+    <!-- Neon Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur1" />
+      <feGaussianBlur stdDeviation="6" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <text x="10" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="55" font-weight="900" fill="url(#pinkGradient)" filter="url(#neonGlow)">
+    Hi there, I'm Shri Manasa! ✨
+  </text>
+</svg>
