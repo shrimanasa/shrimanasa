@@ -27,7 +27,6 @@
 I'm a second-year Computer Science & AI Engineering student with a focus on **Machine Learning, LLMs, and Agentic AI Systems**. I build things that sit at the intersection of research and real world applications.
 
 - 🧠 Published researcher — presented at **ICCIS 2025, BITS Pilani (Goa Campus)**
-- 🤖 Currently building **PitWall Agent** — a multi-agent F1 race strategy advisor using CrewAI & NVIDIA NIM
 - 📄 Co-authoring a peer-reviewed paper on **AI-based Energy Management Systems**
 - 🔍 Actively exploring **RAG pipelines, vector databases, and FastAPI**
 
