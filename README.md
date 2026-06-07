@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <b>AI/ML Engineer · Research Author · CS Student @ Amrita Vishwa Vidyapeetham</b>
+  <b>AI/ML Engineer · Research Author · CS Student </b>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### About Me
 
-I'm a second-year Computer Science & AI Engineering student with a focus on **Machine Learning, LLMs, and Agentic AI Systems**. I build things that sit at the intersection of research and real world applications.
+I'm a third year Computer Science & AI Engineering student with a focus on **Machine Learning, LLMs, and Agentic AI Systems**. I build things that sit at the intersection of research and real world applications.
 
 - 🧠 Published researcher — presented at **ICCIS 2025, BITS Pilani (Goa Campus)**
 - 📄 Co-authoring a peer-reviewed paper on **AI-based Energy Management Systems**
