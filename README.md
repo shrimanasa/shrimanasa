@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER.jpg" alt="Shri Manasa" width="100%"/>
+  <img src="final.png" alt="Shri Manasa" width="100%"/>
 </div>
 
 <br/>
@@ -24,20 +24,13 @@
 
 ### About Me
 
-I'm a second-year Computer Science & AI Engineering student with a focus on **Machine Learning, LLMs, and Agentic AI Systems**. I build things that sit at the intersection of research and real-world applications.
+I'm a second-year Computer Science & AI Engineering student with a focus on **Machine Learning, LLMs, and Agentic AI Systems**. I build things that sit at the intersection of research and real world applications.
 
 - 🧠 Published researcher — presented at **ICCIS 2025, BITS Pilani (Goa Campus)**
 - 🤖 Currently building **PitWall Agent** — a multi-agent F1 race strategy advisor using CrewAI & NVIDIA NIM
 - 📄 Co-authoring a peer-reviewed paper on **AI-based Energy Management Systems**
 - 🔍 Actively exploring **RAG pipelines, vector databases, and FastAPI**
 
----
-
-### Research
-
-**Efficient Human Activity Recognition from Radar Spectrograms**
-*Comparative Study of SVM, CNN, and KNN for Tactical Edge Deployment*
-📍 ICCIS 2025 — 7th International Conference on Communication and Intelligent Systems, BITS Pilani, Goa Campus
 
 ---
 
