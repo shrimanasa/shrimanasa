@@ -67,8 +67,6 @@ I'm a third year Computer Science & AI Engineering student with a focus on **Mac
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**PitWall Agent**](https://github.com/shrimanasa/f1-pitwall-copilot) | Multi-agent F1 race strategy advisor | FastAPI · Next.js · React · TypeScript · FastF1 · Python|
-| [**Radar HAR Classifier**](https://github.com/shrimanasa/radar-har-classifier) | Human Activity Recognition from radar spectrograms | CNN · SVM · KNN · Python |
-
 ---
 
 <p align="center">
