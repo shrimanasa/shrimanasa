@@ -68,6 +68,3 @@ I'm a third year Computer Science & AI Engineering student with a focus on **Mac
 | [**PitWall Agent**](https://github.com/shrimanasa/f1-pitwall-copilot) | Multi-agent F1 race strategy advisor | FastAPI · Next.js · React · TypeScript · FastF1 · Python|
 ---
 
-<p align="center">
-  <i>Building things powered by intelligence — from the model to the cloud.</i>
-</p>
