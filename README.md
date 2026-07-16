@@ -86,3 +86,11 @@ I'm a third year Computer Science & AI Engineering student with a focus on **Mac
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrimanasa/shrimanasa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shrimanasa/shrimanasa/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
