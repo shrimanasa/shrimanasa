@@ -62,3 +62,16 @@ I'm a third year Computer Science & AI Engineering student with a focus on **Mac
 | [**PitWall Agent**](https://github.com/shrimanasa/f1-pitwall-copilot) | Multi-agent F1 race strategy advisor | FastAPI · Next.js · React · TypeScript · FastF1 · Python|
 ---
 
+
+
+---
+
+## 📊 My Git Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrimanasa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrimanasa&layout=compact&theme=radical" alt="Top Languages" height="195px" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrimanasa&theme=radical" alt="GitHub Streak" />
+</p>
