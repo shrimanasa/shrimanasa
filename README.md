@@ -82,10 +82,3 @@ shrimanasa@macbook:~$ ./deploy_web_apps.sh --target=production
 
 ---
 ---
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/shrimanasa/yolo-achievement/pull/5) in [shrimanasa/yolo-achievement](https://github.com/shrimanasa/yolo-achievement)
-2. 💪 Opened PR [#5](https://github.com/shrimanasa/yolo-achievement/pull/5) in [shrimanasa/yolo-achievement](https://github.com/shrimanasa/yolo-achievement)
-3. 🎉 Merged PR [#4](https://github.com/shrimanasa/yolo-achievement/pull/4) in [shrimanasa/yolo-achievement](https://github.com/shrimanasa/yolo-achievement)
-4. 💪 Opened PR [#4](https://github.com/shrimanasa/yolo-achievement/pull/4) in [shrimanasa/yolo-achievement](https://github.com/shrimanasa/yolo-achievement)
-5. 🎉 Merged PR [#3](https://github.com/shrimanasa/yolo-achievement/pull/3) in [shrimanasa/yolo-achievement](https://github.com/shrimanasa/yolo-achievement)
-<!--END_SECTION:activity-->
