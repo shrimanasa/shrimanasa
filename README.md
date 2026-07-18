@@ -81,5 +81,6 @@ shrimanasa@macbook:~$ ./deploy_web_apps.sh --target=production
 
 
 ---
-
+---
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
