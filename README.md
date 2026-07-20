@@ -71,7 +71,7 @@ shrimanasa@macbook:~$ ./deploy_web_apps.sh --target=production
 
 ---
 
-## 🐍 My Contribution Snake
+## Meet Naagin
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrimanasa/shrimanasa/output/github-contribution-grid-snake-dark.svg">
