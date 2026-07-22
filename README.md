@@ -27,6 +27,9 @@
 I'm a third year Computer Science & AI Engineering student with a focus on **Machine Learning, LLMs, and Agentic AI Systems**. I build things that sit at the intersection of research and real world applications.
 
 
+🌐 **Portfolio Website**: [portfolio-lyart-six-14.vercel.app](https://portfolio-lyart-six-14.vercel.app)
+
+
 ### ### 💻 Tech Stack & Tools
 
 ```bash
