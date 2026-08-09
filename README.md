@@ -66,14 +66,6 @@ shrimanasa@macbook:~$ ./deploy_web_apps.sh --target=production
 | [**PitWall Agent**](https://github.com/shrimanasa/f1-pitwall-copilot) | Multi-agent F1 race strategy advisor | FastAPI · Next.js · React · TypeScript · FastF1 · Python|
 ---
 
-
-
----
-
-
-
----
-
 ## Meet Naagin
 
 <picture>
