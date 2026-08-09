@@ -59,11 +59,6 @@ shrimanasa@macbook:~$ ./deploy_web_apps.sh --target=production
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**PitWall Agent**](https://github.com/shrimanasa/f1-pitwall-copilot) | Multi-agent F1 race strategy advisor | FastAPI · Next.js · React · TypeScript · FastF1 · Python|
 ---
 
 ## Meet Naagin
